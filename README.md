@@ -1,7 +1,3 @@
-Below is a sample README file for your project. You can save this content as `README.md` in your project directory.
-
----
-
 # Girlfriend Chat
 
 **Girlfriend Chat** is a web-based chat application designed to simulate warm, supportive, and emotionally comforting conversations with your virtual girlfriend. The project leverages HTML, CSS, and JavaScript to create a responsive and engaging user interface that works seamlessly on both desktop and mobile devices.
